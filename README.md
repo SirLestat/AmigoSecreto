@@ -5,7 +5,7 @@
 ## Características
 
 - **Añade nombres fácilmente:** Ingresa el nombre y presiona "Añadir".
-- **Validaciones inteligentes:** Se asegura de que el nombre no esté vacío ni contenga números.
+- **Validaciones inteligentes:** Se asegura de que el nombre no esté vacío.
 - **Sorteo aleatorio:** Selecciona un nombre al azar con solo presionar un botón.
 - **Interfaz intuitiva:** Diseño limpio y accesible.
 
