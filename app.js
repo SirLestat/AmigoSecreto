@@ -1,7 +1,9 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
+//lista que almacena todos los nombres
 let amigos = [];
 
+//funcion para validar y agregar el nombre escrito en el input
 const agregarAmigo = () => {
   const input = document.getElementById("amigo");
   const nombre = input.value.trim();
@@ -20,6 +22,7 @@ const agregarAmigo = () => {
   listaAmigos.appendChild(item);
 };
 
+//funcion que selecciona un nombre basado en el indice generado pseudoaleatoriamente
 const sortearAmigo = () => {
   if (amigos.length === 0) {
     alert("No hay nombres para sortear");
